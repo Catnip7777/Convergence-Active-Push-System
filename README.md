@@ -1,11 +1,5 @@
-# 汇流主动推送系统
+# 汇流主动推送系统 - 快速入门指南
 一个帮助构建主动信息流，提高信息获取目的性的轻量web应用
-
-# Convergence-Active-Push-System
-A lightweight web application that helps build an active information flow and enhances the purposefulness of information acquisition.
-
-
-# Web Content Pusher - 快速入门指南
 
 ## 🎯 5分钟完成首个核心操作
 
